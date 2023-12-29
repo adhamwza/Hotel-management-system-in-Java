@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Business_Pass
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Business_Pass\ here.\r\n\r\n\ @author\ Adham\ Wael\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ID\ Name\ LR
+comment1.target=Business_Pass(int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Business_Pass\r\n
+comment2.params=
+comment2.target=boolean\ useFerry()
+comment2.text=\r\n\ This\ method\ is\ used\ to\ use\ ferry\ for\ the\ business\ pass,\ whereas\ the\ number\ of\ credits\ is\ deducted\ by\ 3\ and\ the\ loyalty\ points\ are\ added\ by\ 2.\r\n
+comment3.params=
+comment3.target=void\ ConvertPoints()
+comment3.text=\r\n\ This\ method\ is\ used\ to\ convert\ loyalty\ points\ to\ credits,\ for\ every\ 3\ loyalty\ points\ a\ credit\ is\ added\ and\ 3\ loyalty\ points\ deducted\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ This\ method\ is\ used\ to\ return\ all\ relevant\ information\ on\ set\ pass\r\n
+numComments=5

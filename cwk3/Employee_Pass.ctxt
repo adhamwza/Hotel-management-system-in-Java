@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Employee_Pass
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Employee_Pass\ here.\r\n\r\n\ @author\ Adham\ Wael\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ID\ empno\ Name\ job
+comment1.target=Employee_Pass(int,\ int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Employee_Pass\r\n
+comment2.params=
+comment2.target=void\ ConvertPoints()
+comment3.params=
+comment3.target=boolean\ useFerry()
+comment3.text=\r\n\ This\ method\ is\ used\ to\ use\ ferry\ for\ the\ employee\ pass,\ whereas\ the\ number\ of\ credits\ is\ deducted\ by\ 0\ and\ the\ journey\ score\ are\ added\ by\ 1.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ This\ method\ is\ used\ to\ return\ all\ relevant\ information\ on\ set\ pass\r\n
+numComments=5

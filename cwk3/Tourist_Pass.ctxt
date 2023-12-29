@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Tourist_Pass
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tourist_Pass\ here.\r\n\r\n\ @author\ Adham\ Wael\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ID\ Name\ LR\ NoC\ cs
+comment1.target=Tourist_Pass(int,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tourist_Pass\r\n
+comment2.params=
+comment2.target=void\ ConvertPoints()
+comment3.params=
+comment3.target=boolean\ useFerry()
+comment3.text=\r\n\ This\ method\ is\ used\ to\ use\ ferry\ for\ the\ tourist\ pass,\ whereas\ the\ number\ of\ credits\ is\ deducted\ by\ 4\ not\ 3.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ This\ method\ is\ used\ to\ use\ ferry\ for\ the\ tourist\ pass,\ whereas\ it\ returns\ a\ string\ with\ all\ the\ relevant\ information\ of\ set\ pass\r\n
+numComments=5

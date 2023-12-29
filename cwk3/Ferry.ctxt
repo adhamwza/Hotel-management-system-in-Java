@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Ferry
+comment0.text=\r\n\ A\ ferry\ provides\ a\ one-way\ journey\ between\ two\ islands.\ It\r\n\ has\ a\ ferry\ code\ and\ information\ about\ both\ the\ source\ and\r\n\ the\ destination\ island\r\n\ \r\n\ \r\n\ All\ this\ methods\ here\ which\ exists\ here\ have\ return\ methods\ meaning\ that\ they\ do\r\n\ not\ require\ a\ print\ method\ however\ a\ print\ method\ is\ given\ to\ provide\ better\ view\ for\ tester\ and\ \r\n\ user\r\n\ \r\n\ @author\ Adham\ Wael\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Fcode\ Source\ Destination
+comment1.target=Ferry(java.lang.String,\ Island,\ Island)
+comment2.params=
+comment2.target=java.lang.String\ getFCode()
+comment3.params=
+comment3.target=Island\ getSource()
+comment4.params=
+comment4.target=Island\ getDestination()
+comment5.params=p
+comment5.target=boolean\ isValid(Pass)
+comment6.params=p\ s\ d
+comment6.target=java.lang.String\ travel(Pass,\ Island,\ Island)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
